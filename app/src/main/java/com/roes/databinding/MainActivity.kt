@@ -25,6 +25,7 @@ class MainActivity : AppCompatActivity() {
         layoutBind.txtAdds.text = aPerson.address
         */
 
+
         layoutBind.btnUpdate.setOnClickListener(){
 
             layoutBind.txtEmail.text = "ggwp@gmail.com"
